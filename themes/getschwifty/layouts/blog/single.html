@@ -7,9 +7,9 @@
 </div>
 
 {{ if .Params.featured_image }}
-<img src="{{ .Site.BaseURL }}/{{ .Params.featured_image }}" class="mx-auto d-block my-4"  alt="">
+<img src="{{ .Site.BaseURL }}{{ .Params.featured_image }}" class="mx-auto d-block my-4"  alt="">
 {{ else if .Params.image }}
-<img src="{{ .Site.BaseURL }}/{{ .Params.image }}" class="mx-auto d-block my-4"  alt="">
+<img src="{{ .Site.BaseURL }}{{ .Params.image }}" class="mx-auto d-block my-4"  alt="">
 {{ end }}
 
 

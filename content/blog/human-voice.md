@@ -6,7 +6,7 @@ description = "Quick post describing how to "
 draft = false
 image = "/images/2012/05/human_voice.jpg"
 slug = "human-voice"
-tags = ["audio", "human", "showerthoughts]
+tags = ["audio", "human", "showerthoughts"]
 title = "Human Voice"
 
 +++

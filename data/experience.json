@@ -1,0 +1,30 @@
+{
+	"title": "Experience",
+	"experience": [
+		{
+			"timeperiod": "Sep 2013 - Present",
+			"company": "Startappz 🚀",
+			"description": "CTO & CO-Founder, building more clouds."
+		},
+		{
+			"timeperiod": "Dec 2012 - Sep 2013",
+			"company": "Loomni",
+			"description": "CTO & CO-Founder"
+		},
+		{
+			"timeperiod": "Sep 2011 - Dec 2012",
+			"company": "N2V",
+			"description": "Senior web developer on some ☁️ stuff"
+		},
+		{
+			"timeperiod": "Jan 2008 - Sep 2011",
+			"company": "TootCorp",
+			"description": "Buit iKbis and Zoofs"
+		},
+		{
+			"timeperiod": "Jan 2006 - Jan 2008",
+			"company": "D1G",
+			"description": "Web developer"
+		}
+	]
+}

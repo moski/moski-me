@@ -15,10 +15,10 @@ Last night while looking at my twitter stream, I noticed that you hardly see ful
 
 And that got me thinking, How many domains are using Bitly as a shortener service ? 
 
-The short answer is a whopping _"19327"_ domains as of Jan/31/2012.
+The short answer is a whopping *"19327"* domains as of Jan/31/2012.
 
 
-Started by looking at the Bitly api documentation but couldn't find anything useful. Google was not any better. Then i noticed how Bitly chrome extension expands all the shortened bitly URLs including the custom domain ones within a page. So they either download all the domains with the plugin (which is not very practical, because they need to update the plugin every time they add a new domain) or they have some hidden undocumented api call somewhere.
+Started by looking at the [Bitly api documentation](https://dev.bitly.com) but couldn't find anything useful. Google was not any better. Then i noticed how Bitly chrome extension expands all the shortened bitly URLs including the custom domain ones within a page. So they either download all the domains with the plugin (which is not very practical, because they need to update the plugin every time they add a new domain) or they have some hidden undocumented api call somewhere.
 
 So, i opened the source code for the bitly chrome plugin which is located under `~/Library/Application Support/Google/Chrome/Default/Extensions/` if you are a mac user and started digging into the code.
 

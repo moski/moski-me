@@ -13,8 +13,11 @@
 {{ end }}
 
 
-
-<article style="max-width:890px" class="container w-100 my-5">
+{{ if .Params.direction }}
+<article style="max-width:890px;text-align: right" class="container w-100 my-5" dir="rtl">
+{{ else }}
+<article style="max-width:890px;" class="container w-100 my-5">
+{{ end }}
 	{{ .Content }}
 
 	{{ partial "share.html" . }}

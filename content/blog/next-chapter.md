@@ -30,4 +30,4 @@ I will be stepping down as Startappz CTO in the next few months in order to get 
 Hence, We are looking a talented CTO lead Startappz. If you know someone that you think is qualified, please don't hesiste to contact me moski at startzppz.com
 
 
-what's next for me? I honestly haven't decided yet. I will taking my own deciding on the next challenge.
+what's next for me? I honestly haven't decided yet. I have few ideas that I want to implement but nothing concrete yet.
